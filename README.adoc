@@ -1,0 +1,13 @@
+= My Curriculum Vitae
+
+== HTML, TXT and PDF generation
+
+----
+./build
+----
+
+== GitHub pages Publication
+
+----
+./build publish
+----
